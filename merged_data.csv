@@ -1,0 +1,573 @@
+Spin Trap with comments,aN,aH,aN/aH,Comments,Spin Trap
+DMPO * .OHin AQ,15.0,15.0,1.0,Fe(II)-EDTA + H2O2,OH
+DMPO * .OHin AQ07P0,14.9,14.9,1.0,CPZSO or PZSO + UV,OH
+DMPO * .CHR2 6-OH CYTS C5in AQ0607,14.8,3.4,4.35,N=1.7; H=1.7; cytosine + H2O2 + UV,OH
+DMPO * .OHin AQ07P4,15.01,15.01,1.0,xanthine+ xanthine oxidase & Fe(II),OH
+DMPO * .CHR2 6-OH CYTS C5in AQ0607,15.5,22.0,0.7,H=2.5; cytosine + H2O2 + UV,OH
+DMPO * .CH(OH)CH3in AQ07P4,15.8,22.8,0.69,microsomes + NADPH + 0.9% EtOH,OH
+DMPO * .CH(OH)CH3in AQ ET 8:1,15.7,22.4,0.7,Fe(II) + cysteine,OH
+DMPO * .OHin AQ07P2,15.3,15.3,1.0,"(+/-.3 G), PMN",OH
+DMPO * .O2Hin AQ0,14.1,11.3,1.25,CdS or phthalocyanine pigments + hv,O2H
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,CO2+ + NTA +H2O2,OH
+DMPO * .OHin AQ07P2,14.9,14.9,1.0,"K2Cr2O2, Xanthine/XO",OH
+DMPO * .OHin AQ ET,14.75,14.75,1.0,2.0052; WO3 + hv,OH
+DMPO * .SCH2CO2Hin AQ07P4,15.3,17.07,0.9,2-mercaptoethanoic acid + H2O2 + UV,O2H
+DMPO * .OHin AQ07K4,14.9,14.9,1.0,VT; from O2- of post-ischemic rat hearts,OH
+DMPO * .CH(OH)CH3in AQ,0.0,0.0,,quartz particles + EtOH,OH
+DMPO * .OHin AQ07P2,,,,ozone + caffeic acid,OH
+DMPO * .OHin fibroblast,14.9,14.9,1.0,hydralazine in fibroblast,OH
+DMPO * .O2Hin NR,,,,porphyrins and hv,O2H
+DMPO * .O2Hin AQ07P4,14.3,11.3,1.27,"2.006; H=1.3,hypoxanthine+xanthine oxidase",O2H
+DMPO * .CH(OH)CH3 C13-CHin AQ07P0,16.0,23.0,0.7,Fe2+ + H2O2 + C2H5OH C13-CH2,OH
+DMPO * .OHin AQ07P8,15.09,15.09,1.0,1.2-dimethylhydrazine+oxyhemoglobin,OH
+DMPO * .OHin AQ07P4,15.26,15.26,1.0,2.0058; bleomycin-Fe(II) + O2,OH
+DMPO * .O2Hin AQ07P5,14.3,11.7,1.22,2.0061; H=1.25; pyocyanine+ NADH+ DMPO+ O2,O2H
+DMPO * .OHin AQ07P4,15.0,15.0,1.0,Fe(III)-EDTA + hv,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,H2O2+FeCl3+EDTA+caffeic acid;T=20C,OH
+DMPO * .CH(OH)CH3in AQ07P0,15.8,22.8,0.69,methylene blue + ascorbate + hv,OH
+DMPO * .OHin DCM,14.3,12.4,1.15,"TBPA.+SbCl6-/DMPO/F-,3H2O",OH
+DMPO * .CH(OH)CH3in AQ06P5,15.9,23.1,0.69,chlorpromazine + EtOH + UV,OH
+DMPO * .OHin AQ07P4,15.0,15.0,1.0,Fe(II)-EDTA or Fe(II)DETAPAC + H2O2,OH
+DMPO * .O2Hin AQ07P8,0.0,0.0,,glyoxysomal supernatant + xanthine,O2H
+DMPO * .OHin AQ08P3,14.9,14.9,1.0,hepatic nuclei + NADPH,OH
+DMPO * .OHin AQ0P,15.0,15.0,1.0,contact glow discharge electrolysis,OH
+DMPO * .O2SOC6H4NO2in AN,12.8,10.0,1.28,O2-. + 2-nitrobenzenesulfonyl chloride,.O2SOC6H4NO2
+DMPO * .OHin AQ07P0,14.9,14.9,1.0,p-benzoquinone+UV,OH
+DMPO * .CH(OH)CH3in AQ07P4,15.8,22.8,0.69,endothelial cells + 1% EtOH,OH
+DMPO * .OHin AQ07,14.9,14.9,1.0,Trp + UV,OH
+DMPO * .OHin AQ0,15.0,15.0,1.0,2.0062; H2O2 + UV,OH
+DMPO * .N(OH)C(CH3)2(CH2)2Cin AQ0700,14.3,16.2,0.88,"2.0053; H=4.2, oxidation by CoO2-",OH
+DMPO * .OHin AQ HBS,15.3,15.3,1.0,opsonized zymosan+neutrophils+DTPA+DMSO,OH
+DMPO * .OHin AQ08P5,14.9,14.9,1.0,bithionol or fentichlor + UVA,OH
+DMPO * .OHin AQ07P5,15.1,15.1,1.0,tBU hydroperoxide+mouse keratinocytes,OH
+DMPO * .OHin AQ08P6,,,,glyceraldehyde autox.,OH
+DMPO * .O2Hin DM,12.9,10.2,1.26,H=1.3; amiodarone + O2 + hv,O2H
+DMPO * .CH2OHin AQ0,16.0,22.7,0.7,radiolysis of water with CH3OH,OH
+DMPO * .OHin AQ,14.0,12.79,1.09,Fenton rxn with Fe2+ or Fe3+ + HA,OH
+DMPO * .O2Hin AQ0,,,,"xanthine oxidase, cacodylate buffer radical",O2H
+DMPO * .OHin AQ06P5,15.0,15.0,1.0,chlorpromazine + UV,OH
+DMPO * .OHin AQ DHP ves,14.9,14.9,1.0,dihexadecylphosphate + (tBu)4phthalocyanine,OH
+DMPO * .CH(OH)CH3in AQ07P4,16.0,23.2,0.69,"anthrapyrazole + ascorbate, Fe(III) and hv",OH
+DMPO * .OH#in AQ07,,,,5-methylphenazinium + hv,OH
+DMPO * .OHin AQ0,14.9,14.9,1.0,ultrasound in water (or 82MA01),OH
+DMPO * .O2Hin AQ HBS,0.0,0.0,,"HXO/XO;T=25C,37C",O2H
+DMPO * .OHin AQ07P9,14.8,14.8,1.0,"2,5-dihydroxybiphenyl+FeCl3+DTPA",OH
+DMPO * .O2Hin AQ07H4 HBS,,,,PMN+(phorbol myristate OAc or opson. zymosan,O2H
+DMPO * .C(OH)(CH3)2in AQ07T4 ET8,15.2,22.8,0.67,Fe(II) + cysteine,OH
+DMPO * .O2Hin AQ07P0,14.2,11.3,1.26,"H=1.3, daunomycin + 310nm - air",O2H
+DMPO * .OHin AQ07T4,0.0,0.0,,microsomes + uroporphyrin + NADPH,OH
+DMPO * .OHin AQ07K4,14.8,14.8,1.0,Reperfusion of isolated rat heart.,OH
+DMPO * .CH(OH)CH3in AQ07P4,16.0,23.2,0.69,Fe(III)-EDTA + EtOH + hv,OH
+DMPO * .CH(OH)CH3in AQ07P2,15.8,22.8,0.69,Cr(VI)+NADPH+ETOH,OH
+DMPO * .OHin AQ07H6,,,,microsomes + adriamycin + NADH,OH
+DMPO * .OHin AQ07C0,14.92,14.92,1.0,Fenton system,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,2.0050; adriamycin + heart sarcosomes,OH
+DMPO * .OHin AQ0,14.9,14.9,1.0,H2O2 + UV,OH
+DMPO * .O2Hin AQ07T4,,,,microsomes with nitrobenzyl chloride,O2H
+DMPO * .OHin AQ07P4,15.0,15.0,1.0,UV+H2O2,OH
+DMPO * .O2Hin AQ07T4,14.3,11.7,1.22,"H=1.25, adriamycin + mitochrondria + NADH",O2H
+DMPO * .OHin AQ0,14.77,14.77,1.0,ammonium persulfate,OH
+DMPO * .O2Hin AQ07P4,14.25,11.3,1.26,IV;H=1.4; heart IRP,O2H
+DMPO * .OHin AQ HBS,14.9,14.9,1.0,stimulated neutrophils;T=25C,OH
+DMPO * .O2Hin RPMI,0.0,0.0,,"stimulated neutrophils;T=25C,37C",O2H
+DMPO * .OHin AQ0505,14.9,14.9,1.0,2.0061; chlorophyll a or Bchl + hv,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,dihydroxyindole + UV,OH
+DMPO * .CH(OH)CH3in AQ ET 9:1,15.8,22.9,0.69,cysteine with EtOH autox.,OH
+DMPO * .OHin AQ07P4,15.0,15.0,1.0,human breast cell mitochondria/doxorubicin/N,OH
+DMPO * .OHin AQ07P4,15.05,14.74,1.02,X/XO + DSF,OH
+DMPO * .OHin AQ,0.0,0.0,,fredericamycin + H2O2,OH
+DMPO * .CH(OH)(CH2)2CH3in BZ,14.89,22.72,0.66,C4H9OH + BP*,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,CO2+ + ED + O2,OH
+DMPO * .O2Hin AQ0,,,,neutrophiles + latex IgG and PMA,O2H
+DMPO * .OHin AQ AC 1:1,14.6,13.2,1.11,Fenton system,OH
+DMPO * .OHin RPMI,0.0,0.0,,"stimulated neutrophils;T=25C,37C",OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,sonolysis,OH
+DMPO * .OHin AQ,14.8,14.8,1.0,Ni(II)tetraglycine + H2O2,OH
+DMPO * .OHin AQ07P0,,,,@KD=8.4E-4,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,2.0050; reduced nucleotide + phenazines,OH
+DMPO * .OHin AQ DM 19:1,14.9,14.9,1.0,diaziquone + hv,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,stimulated neutrophils,OH
+DMPO * .OHin AQ07,15.1,15.1,1.0,4-aminobenzoic acid + UV,OH
+DMPO * .OHin AQ,14.8,14.8,1.0,Cr(III)+H2O2 and L-cysteine,OH
+DMPO * .OHin AQ07P4,0.0,0.0,,human polymorphonuclear leukocytes,OH
+DMPO * .OHin AQ0,15.0,15.0,1.0,Fe(II) with Desferal + H2O2,OH
+DMPO * .OHin AQ07P0,,,,@KF=3.6E9; radiolysis H2O,OH
+DMPO * .O2Hin AN AQ,,,,KO2 or ubisemiquinone radical reactions,O2H
+DMPO * .OHin AQ07P5,15.0,15.0,1.0,2.0060; hematoporphyrin + hv,OH
+DMPO * .OHin AQ07P0,14.9,14.9,1.0,hv of mitomycin C,OH
+DMPO * .SCH2CH2OHin AQ07P4,15.2,16.8,0.9,"H=0.53, 2-mercaptoethanol + H202 + UV",OH
+DMPO * .CH(OH)CH3in AQ HBS,16.14,22.9,0.7,PMNs or myeloperoxidase + EtOOH,OH
+DMPO * .OHin AQ0700,14.9,14.9,1.0,2.006; Fenton system,OH
+DMPO * .OHin AQ07P0,0.0,0.0,,BLM + Fe(II),OH
+DMPO * .O2Hin AQ07P8,14.3,11.7,1.22,"H=1.25, xanthine + xanthine oxidase",O2H
+DMPO * .C6H4 p-CO2Hin AQ07D0,15.8,24.06,0.66,4-iodobenzoic acid + UV,O2H
+DMPO * .OHin AN,13.6,13.6,1.0,H2O2 + hv,OH
+DMPO * .O2Hin AQ07P4,14.18,11.31,1.25,H=1.19;X/XO+DSF,O2H
+DMPO * .O2Hin AQ07P4,14.2,11.34,1.25,"H=1.25, xanthine oxidase",O2H
+DMPO * .O2Hin DM,12.7,10.3,1.23,"H=1.3;UV radiation N-formylknurenine,ribo..",O2H
+DMPO * .OHin AQ,14.9,14.9,1.0,Fe2+ +H2O2,OH
+DMPO * .OHin AQ07P0,15.0,15.0,1.0,photofrin II + ascorbate + hv,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,PRQ + Tyypanozoma cruzi + NADH,OH
+DMPO * .CH(OH)CH3in AQ07P5,15.8,22.9,0.69,2.0067; HP + EtOH + hv,OH
+DMPO * .OHin AQ,14.87,14.81,1.0,simulation,OH
+DMPO * .O2Hin AQ P,,,,stimulated neutrophils,O2H
+DMPO * .O2Hin AQ07,13.1,11.0,1.19,"H=1.3, xanthine oxidase",O2H
+DMPO * .OHin AQ,14.9,14.9,1.0,NO2- + UV,OH
+DMPO * .O2Hin AN,13.0,10.3,1.26,CdS or phthalocyanine pigments + hv,O2H
+DMPO * .OHin AQ06P5,14.8,14.8,1.0,7OHCPZ + 330nm - air,OH
+DMPO * .CH(OH)CH3in AQ07P2,15.8,22.0,0.72,Cr(VI)+NADPH+EtOH+glutathione reductase,OH
+DMPO * .CH2C(OH)(CH3)2in AQ07,16.0,23.2,0.69,"gamma hv of water, t1/2 = 57m",OH
+DMPO * .O2Hin AQ,,,,@VT;fibroblasts+rheumatoid arthritis syn flu,O2H
+DMPO * .OHin AQ07P4,15.0,15.0,1.0,2.0062; microsomes + NADPH,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,methylene Blue + hv,OH
+DMPO * .CH2OHin AQ ME,16.0,22.5,0.71,2.0052; WO3 + hv,OH
+DMPO * .OHin AQ07P0,14.9,14.9,1.0,hv of tartrazine,OH
+DMPO * .OHin AQ07P4,14.7,14.7,1.0,xanthine oxidase with transferrin,OH
+DMPO * .OHin AQ0,15.3,15.3,1.0,"2.0061; H=.61,.25, H2O2 + UV",OH
+DMPO * .OHin AQ07C1,14.92,14.92,1.0,ADP-Fe(II)-H2O2,OH
+DMPO * .O2Hin AQ HBS,0.0,0.0,,stimulated neutrophils;T=37C,O2H
+DMPO * .CH(OH)CH3in ET,16.07,23.35,0.69,NO2- + EtOH + UV,OH
+DMPO * .OHin AQ07P8 DF,14.8,14.8,1.0,"TMAS, t1/2 = 2.5 hr",OH
+DMPO * .OHin AQ HBS,15.3,15.3,1.0,myeloperoxidase+H2O2+sonication,OH
+DMPO * .CH2OHin AQ,16.0,23.0,0.7,Fe(II)-EDTA + H2O2 + CH3OH,OH
+DMPO * .OHin AQ,,,,XO/HXO,OH
+DMPO * .OHin AQ0708,,,,Fe(III)-EDTA + H2O2,OH
+DMPO * .O2Hin AQ HBS,14.2,11.3,1.26,H=1.3;stimulated neutrophils;T=25C,O2H
+DMPO * .O2Hin AQ07P4,14.3,11.7,1.22,"H=1.2, MPP+ with NADH + cytochrome P450 red",O2H
+DMPO * .OHin AQ0,14.9,14.9,1.0,2.006; Phanerochaete chrysosporium extract,OH
+DMPO * .C(OH)(CH3)2in AQ07P8,16.0,24.1,0.66,2.0053;2-PrOH+FeSO4+PBS,OH
+DMPO * .O2Hin ET,13.1,10.3,1.27,CdS or phthalocyanine pigments + hv,O2H
+DMPO * .O2Hin AQ04A5,14.45,11.45,1.26,H = 1.25; anthrapyrazole + catechol + hv,O2H
+DMPO * .OHin AQ06,15.0,15.0,1.0,"H2O2 + UV, t1/2 = 870 s",OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,MPTP + mouse brain mitochondria,OH
+DMPO * .CH(OH)CH3in AQ0,15.8,22.8,0.69,H2O2 + EtOH + UV,OH
+DMPO * .OHin OL,14.0,12.7,1.1,Fenton reaction,OH
+DMPO * .OHin OL,13.9,13.6,1.02,Fenton reaction,OH
+DMPO * .OHin AQ MC 9:1,14.7,14.7,1.0,Pt blue/H2O2,OH
+DMPO * .OHin AQ07P0,15.0,15.0,1.0,methylene blue + ascorbate + hv,OH
+DMPO * .C(OH)(C6H5)(CH3)2 ?in AQ03Z0,16.0,22.3,0.72,DMHB + ligninase,OH
+DMPO * .OHin AQ0,14.8,14.8,1.0,H2O2 + hv,OH
+DMPO * .CH(OH)CH3in ET,15.0,21.7,0.69,"anthralin + 356nm, N2",OH
+DMPO * .OHin AQ07K4,14.8,14.8,1.0,ischemic perfusion of rat heart,OH
+DMPO * .O2Hin AQ07P4,14.3,11.7,1.22,H=1.25; Xanthine/Xanthine oxidase,O2H
+DMPO * .C6H4 m-NO2in BZ,13.73,19.56,0.7,C6H4I(mNO2)+hv,.C6H4 m-NO2
+DMPO * .CH2OHin AQ,16.2,23.0,0.7,Ti(III)-EDTA-(H2O-) + H2O2 + CH3OH,OH
+DMPO * .OHin AQ0,14.9,14.9,1.0,aqueous extract of cigarette tar,OH
+DMPO * .CH2OHin AQ06,15.95,22.69,0.7,H2O2 + CH3OH + hv,OH
+DMPO * .OHin AQ,14.8,14.8,1.0,vacuum UV,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,endothelial cells + menadione,OH
+DMPO * .OHin AN,14.1,12.29,1.15,2.0060; O2- + H2O2,OH
+DMPO * .O2Hin AQ07H4,,,,adriamycin and mitochondria,O2H
+DMPO * .OHin AQ08P0,0.0,0.0,,MPDP+ (MPTP metabolite) + dopamine melanin,OH
+DMPO * .O2Hin AQ07P8,,,,xanthine oxidase,O2H
+DMPO * .CH(OH)CH3in AQ07P4,15.8,22.9,0.69,CO2+ + NTA + EtOH + H2O2,OH
+DMPO * .OHin AQ07P4,15.1,15.1,1.0,catalase/formaldehyde hydrazone,OH
+DMPO * .CH(OH)CH3in AQ ET 2:1,15.8,22.8,0.69,TSPC+tryptophan+ETOH+hv,OH
+DMPO * .O2Hin AQ07T5,14.3,11.7,1.22,"2.0061; H=1.25, naphthols + microsomes",O2H
+DMPO * .OHin AQ0,14.9,14.9,1.0,2.0061; Fenton system,OH
+DMPO * .O2Hin AN,13.0,10.3,1.26,H=1.4; anthralin + 386nm,O2H
+DMPO * .OHin AQ,14.9,14.9,1.0,sonication of Xe-saturated H2O,OH
+DMPO * .OH O17in AQ07P4,14.9,14.9,1.0,17O=4.6;CO2+ + ED + O2 in 52% O17 water,OH
+DMPO * .OHin AQ07P8,14.95,14.95,1.0,linoleic acid + lipoxygenase,OH
+DMPO * .OHin AQ08P0,14.9,14.9,1.0,Fenton,OH
+DMPO * .O2Hin AQ07T4,,,,p-nitrobenzyl chloride + microsomes,O2H
+DMPO * .O2H O17in AQ07P4,14.2,11.34,1.25,"H=1.25, O17=5.9, xanthine oxidase + O17gas",O2H
+DMPO * .OHin AQ07P0,15.0,15.0,1.0,reduced mitomycin C,OH
+DMPO * .OHin AQ07P4,15.3,15.3,1.0,2.0060; AMPHIS-Fe(II) + O2,OH
+DMPO * .O2Hin AQ07P0,,,,protoporphyrin IX + hv,O2H
+DMPO * .OHin AQ,14.9,14.9,1.0,enterocytes+DMPO+menadione or nitrazepam,OH
+DMPO * .O2Hin AQ07P4,0.0,0.0,,human polymorphonuclear leukocytes,O2H
+DMPO * .OHin AQ1305,16.2,16.2,1.0,2.0057; H2O2 + hv; pH dependence of hfsc,OH
+DMPO * .OHin AQ06P5,14.8,14.8,1.0,DDCPZ + 330nm - air,OH
+DMPO * .OHin EA,13.75,10.95,1.26,Fenton system,OH
+DMPO * .O2Hin AQ0,14.1,11.3,1.25,"H=1.3, amiodarone + UV",O2H
+DMPO * .SCH2CH2OHin BZ,13.8,14.2,0.97,"2.0061; H=0.7, thionitrite decomposition",OH
+DMPO * .O2Hin AQ07P8,14.2,11.2,1.27,"2.0060; H=1.3, xanthine oxidase",O2H
+DMPO * .OHin AQ PR 1:1,14.7,13.1,1.12,Fenton system,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,reperfused ischemic myocardium,OH
+DMPO * .O2Hin AQ07P8,0.0,0.0,,xanthine oxidase,O2H
+DMPO * .OHin AQ,14.9,14.9,1.0,ZnO+hv,OH
+DMPO * .CH(OH)CH3 1O2in AQ07P4,15.75,23.5,0.67,MC540 treated liposome+ETOH+hv,OH
+DMPO * .OHin,,,,@KF=3.4E9,OH
+DMPO * .OHin AQ06C7,14.92,14.92,1.0,Fe(II)-ADP-H2O2,OH
+DMPO * .OHin AQ,15.0,15.0,1.0,Ti(III)-EDTA-(H2O-) + H2O2 ( + AC),OH
+DMPO * .OHin AQ0609,15.2,15.2,1.0,2.0058; Fe(II)-bleomycin,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,endothelial cells+menadione+DMPO+SOD,OH
+DMPO * .C(OH)(CH3)2in AQ0,15.92,23.66,0.67,2.0054; (CH3)2CHOH + SO4.-,OH
+DMPO * .OHin AQ07P4,15.11,15.11,1.0,2.005; HPD + hv,OH
+DMPO * .OHin AQ11P5,14.9,14.9,1.0,2.006; 6-hydroxydopamine autox.,OH
+DMPO * .CH(OH)CH3in AQ,16.2,23.2,0.7,Ru(NH3)6 + H2O2 + EtOH,OH
+DMPO * .OHin AQ0,14.9,14.9,1.0,"H=.227(OH),.224(6),.135(2),.229,.37, H2O2+UV",OH
+DMPO * .O2Hin AQ07P4,14.4,11.4,1.26,"H=1.3, anthrapyrarole + NADH and hv",O2H
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,"Fenton system, buffer & chelate effect shown",OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,2.0050; AcPhHZ+oxyhaemoglobin or red cells,OH
+DMPO * .CH(OH)CH3in AQ07P4,15.6,22.52,0.69,2.0052; HPD + Fe2+ + EDTA + hv,OH
+DMPO * .CH(OH)CH3in AQ09B,15.8,22.8,0.69,H2O2 + UV or with F. formicicum,OH
+DMPO * .OHin AQ07P8,14.9,14.9,1.0,ultrasound,OH
+DMPO * .O2Hin AQ07P8,14.3,11.7,1.22,H=11.7;Xanthineee/Xanthine oxidase,O2H
+DMPO * .OHin AQ08P6,14.9,14.9,1.0,2.0051; glyceraldehyde autox.,OH
+DMPO * .O2Hin AQ07P4,,,,adriamycin + NADPH,O2H
+DMPO * .OHin AQ07P4,15.0,15.0,1.0,2.0062; microsomes + NADPH,OH
+DMPO * .O2Hin EG,13.6,10.9,1.25,CdS or phthalocyanine pigments + hv,O2H
+DMPO * .OHin AQ07P0,15.0,15.0,1.0,Fe2+ + H2O2,OH
+DMPO * .OHin AQ07T4,,,,Microsomes + G6PD + G6P + NADPH + SR4233,OH
+DMPO * .OHin AQ07P4,,,,HOCl+DMPO or stimulated neutrophils,OH
+DMPO * .OHin AQ07P8,14.3,14.3,1.0,rabbit serum+37C;10min,OH
+DMPO * .OHin OL,14.7,11.8,1.25,H2O2 + Fe2+ extract into OL,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,ischemic rat heart perfusate,OH
+DMPO * .OHin AQ PR i,14.75,14.75,1.0,2.0056; WO3 + hv,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,mitochondria + succinate + benzoyl peroxide,OH
+DMPO * .OH#in AQ0,14.9,14.9,1.0,adriamycin or daunomycin + hv,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,VV; heart IRP,OH
+DMPO * .OHin AQ0609,15.2,15.2,1.0,2.0058; Fe(II)-bleomycin,OH
+DMPO * .OHin AQ07P0,,,,@KF=2.7E9; H2O2+hv,OH
+DMPO * .O2Hin DM,12.9,10.2,1.26,H=1.5; anthralin + 386nm,O2H
+DMPO * .CH(OH)CH3in AQ06P5,15.7,22.7,0.69,7OHCPZ + EtOH + 330nm - air,OH
+DMPO * .OHin AQ07P4,0.0,0.0,,Streptonigrin (or paraquat) + N.gonorrhoeae,OH
+DMPO * .OH O17in AQ08P5,15.1,15.1,1.0,"O17=4.58, bithionol+325nm + 17O2",OH
+DMPO * .OHin AQ10P0,,,,quercetin during autoxidation,OH
+DMPO * .O2Hin AQ07P5,14.2,11.4,1.25,"H=1.3, ensymatic reduction of quinoids",O2H
+DMPO * .OHin AQ07P4,0.0,0.0,,primaquine+NADPH+Thymus-bone marrow cells,OH
+DMPO * .OHin AQ07P4,0.0,0.0,,NADPH-cytocP-450 reductase + lactoferrin,OH
+DMPO * .O2Hin DM,12.7,10.3,1.23,CdS or phthalocyanine pigments + hv,O2H
+DMPO * .OHin AQ07P8,14.9,14.9,1.0,2.0050; xanthine + xanthine oxidase,OH
+DMPO * .CH(OH)CH3in AQ08P5,15.73,23.06,0.68,bithionol or fentichlor + EtOH + UVA,OH
+DMPO * .CH(OH)CH3in AQ07P8,16.0,23.0,0.7,H2O2 + EtOH + drug semiquinone,OH
+DMPO * .CH2C6H4 o-NO2in AQ07T4,15.8,22.4,0.71,o-nitrobenzyl + microsomal protein,.CH2C6H4 o-NO2
+DMPO * .O2Hin AQ07P8 DF,14.2,11.6,1.22,"H=1.2, TMAS",O2H
+DMPO * .O2Hin AQ07P8,14.3,11.7,1.22,H=1.3; NADPH + FMN,O2H
+DMPO * .OHin AQ0,15.0,15.0,1.0,radiolysis of water,OH
+DMPO * .OHin OC,14.2,11.6,1.22,Fenton system in water then extraction,OH
+DMPO * .O2Hin AQ DM 4.5,13.8,11.14,1.24,H = 1.37; anthrapyrazole + catechol + hv,O2H
+DMPO * .OHin AQ,14.9,14.9,1.0,2.0059; freshly ground quartz particles,OH
+DMPO * .OHin AQ07P8,0.0,0.0,,"xanthine oxidase, or sonolysis",OH
+DMPO * .OHin AQ07P4,14.95,14.95,1.0,Xanthine/Xanthine oxidase,OH
+DMPO * .OHin AQ07H4,,,,ubisemiquinone reactions,OH
+DMPO * .OHin AQ07T4,15.0,15.0,1.0,crystal violet + ascorbate + hv,OH
+DMPO * .OHin AQ11P0,14.9,14.9,1.0,Fe(III)-TPPS + hv,OH
+DMPO * .C(OH)(CH3)2in AQ06,15.98,23.95,0.67,H2O2 + 2PrOH + UV (could be CH2CH(CH3)OH),OH
+DMPO * .O2Hin AQ07P4,,,,nitrofurans + rat liver mitochrondria,O2H
+DMPO * .OHin AQ07P4,15.0,15.0,1.0,2.0062;Fenton reaction,OH
+DMPO * .OH#in CFCl3 AQ,13.0,13.0,1.0,"gamma-hv of H2O, annealed to 298K",OH
+DMPO * .OHin AQ0,14.75,14.75,1.0,2.0054; WO3 + hv,OH
+DMPO * .S(CH2)3CO2Hin AQ07P4,15.36,17.28,0.89,hv of disulfide H2O2 ?,O2H
+DMPO * .OHin AQ0704,14.9,14.9,1.0,2.0050; NADH/NADH dehydrogenase + adriamycin,OH
+DMPO * .OHin AQ09C0,,,,melanin with hydrogen peroxide,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,2.0059; freshly ground silica,OH
+DMPO * .CH(OH)CH3in AQ,16.2,23.2,0.7,Ti(III)-EDTA-(H2O-) + H2O2 + EtOH,OH
+DMPO * .OHin BU,14.6,12.0,1.22,Fenton system,OH
+DMPO * .OHin AQ07P1,14.9,14.9,1.0,NaOCl oxidation; 17O=4.6,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,primaquine + T.cruzi extract + NADH,OH
+DMPO * .O2Hin AQ,14.4,11.6,1.24,H=1.25;CdS dispersion + UV,O2H
+DMPO * .CH2CH2OHin AQ0,15.98,22.83,0.7,"2.0057; SO4.- + EtOH, t1/2=4.8m",OH
+DMPO * .OH#in CFCl3 AQ,14.9,14.9,1.0,"gamma-hv of H2O, annealed to 270 K",OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,2.0053;PMA+PMN,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,hematocrit in PBS+NaCl+gamma-radiolysis,OH
+DMPO * .O2Hin AQ07P4,14.2,11.3,1.26,"H=1.3, stimulated neutrophils",O2H
+DMPO * .CH(OH)C2H5in AQ PR n,16.0,22.6,0.71,2.0055; WO3 + hv,OH
+DMPO * .OHin AQ HBS,15.75,15.75,1.0,DTPA+NaOCl,OH
+DMPO * .O2Hin AQ07P4,14.3,11.7,1.22,"H=1.25, menadione + NADPH-cyt c reductase",O2H
+DMPO * .OHin MO,14.5,15.0,0.97,Fenton reaction,OH
+DMPO * .OHin AQ P,,,,stimulated neutrophils,OH
+DMPO * .OHin AQ06P0,,,,@KF=2.0E9; H2O2+hv,OH
+DMPO * .O2Hin AQ,14.3,11.7,1.22,H=1.3; xanthine + xanthine oxidase,O2H
+DMPO * .OHin EA,13.9,10.9,1.28,Ti3+ + H2O2 extraction into EA,OH
+DMPO * .C(OH)(CH3)2in AC,14.5,24.8,0.58,gamma hv,OH
+DMPO * .O2Hin AQ07P5,14.3,11.7,1.22,H=1.25;primaquine+DMSO,O2H
+DMPO * .CH2C6H4 m-NO2in AQ07T4,16.0,21.4,0.75,"H=0.7,p-nitrobenzyl + microsomal protein",.CH2C6H4 m-NO2
+DMPO * .OHin AQ07H4 HBS,0.0,0.0,,stimulated phagocytes,OH
+DMPO * .CH2OH 1O2in AQ07P4,15.75,22.5,0.7,MC540 treated liposome+CH3OH+hv,OH
+DMPO * .OHin AQ08P5,,,,monosaccharide autox.,OH
+DMPO * .OHin AQ08P0,,,,@KF=2.6E9; H2O2+hv,OH
+DMPO * .OHin AQ,14.93,14.93,1.0,ZnO+Na2S2O8+hv,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,IV;heart IRP,OH
+DMPO * .OHin AQ07P0,14.9,14.9,1.0,furocoumarin derivatives + hv,OH
+DMPO * .OHin AQ07T4,14.8,14.8,1.0,Fe(II) + cysteine,OH
+DMPO * .OHin AQ0,14.83,14.83,1.0,ADP-Fe(III)-H2O2,OH
+DMPO * .OHin AQ07P0,14.8,14.8,1.0,xanthine oxidase and ferritin,OH
+DMPO * .OHin AQ,15.0,15.0,1.0,rat heart perfusate + adriamycin,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,Fenton reaction,OH
+DMPO * .O2Hin AQ07T4,14.3,11.7,1.22,"H=1.25, microsomes + ronidazole",O2H
+DMPO * .S(CH2)2CO2Hin AQ07P4,15.32,17.12,0.89,hv of disulfide,O2H
+DMPO * .OHin AQ07P8,14.87,14.81,1.0,xanthine + xanthine oxidase,OH
+DMPO * .OHin AQ07A4,14.9,14.9,1.0,IV;ischemic and post-ischemic rat hearts,OH
+DMPO * .O2Hin AQ07P4,,,,nitrofurans + Tritrichomanas foetus,O2H
+DMPO * .OHin,,,,@KD=9.8E-4;pH=8,OH
+DMPO * .CH(OH)CH3in AQ07P4,15.8,22.8,0.69,H2O2 + EtOH + hv,OH
+DMPO * .C(OH)(CH3)2in AQ AC PR,15.4,24.3,0.63,acetone + propanol + hv,OH
+DMPO * .O2Hin ME,13.3,10.4,1.28,CdS or phthalocyanine pigments + hv,O2H
+DMPO * .OHin AQ07P4,0.0,0.0,,adriamycin + X/XO,OH
+DMPO * .O2Hin AQ07P8,,,,"riboflavin + hv, t1/2=35-80s for pH=6-8",O2H
+DMPO * .OHin AQ0,15.0,15.0,1.0,"Ir(III), Ce(IV), Ti(IV or KMnO4",OH
+DMPO * .O2Hin AQ04I0,14.2,11.3,1.26,"H=1.3, CPZ + UV",O2H
+DMPO * .O2Hin AQ07P4,14.3,11.35,1.26,"H=1.25, gentian violet + NADH + hv",O2H
+DMPO * .O2Hin AQ07T8,,,,"H2O2 + UV, HPLC separation of products",O2H
+DMPO * .OHin AQ07P8,,,,xanthine + xanthine oxidase with DETAPAC,OH
+DMPO * .O2Hin AQ07P8,14.27,11.7,1.22,H=1.22;linoleic acid + lipoxygenase,O2H
+DMPO * .OHin AQ07P4,15.0,15.0,1.0,GS + AL,OH
+DMPO * .O2Hin AQ,14.3,11.7,1.22,H=1.3; riboflavin + hv,O2H
+DMPO * .OHin AQ,15.5,15.5,1.0,UV+ epidermal homogenate,OH
+DMPO * .O2Hin AQ07P4,14.18,11.31,1.25,H=1.19;X/XO + DSF in chelex-treated buffer,O2H
+DMPO * .OHin AQ07P8,14.95,14.95,1.0,Fenton system,OH
+DMPO * .CH(OH)CH3in AQ07P4,15.7,22.7,0.69,GS + AL + EtOH,OH
+DMPO * .O2Hin DF,12.8,9.9,1.29,CdS or phthalocyanine pigments + hv,O2H
+DMPO * .CH(OH)CH3in AQO7P2,15.8,22.8,0.69,Cr(VI)+NADPH+H2O2+E+H2O2,OH
+DMPO * .O2Hin,,,,@KF=6.6E3,O2H
+DMPO * .OHin AQ07P2,14.9,14.9,1.0,Cr(VI)+NADPH+glutathione reductase,OH
+DMPO * .OHin AQ07C4,14.9,14.9,1.0,reperfused rat heart,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,microsomes or nuclei and nitrosoamines,OH
+DMPO * .OHin AQ PR n,14.75,14.75,1.0,2.0055; WO3 + hv,OH
+DMPO * .O2Hin AQ07H4 HBS,0.0,0.0,,stimulated phagocytes,O2H
+DMPO * .OHin AQ06P4,14.95,14.95,1.0,cumene hydroperoxide + chloroperoxidase,OH
+DMPO * .OHin AQ0,14.9,14.9,1.0,e hv,OH
+DMPO * .OHin AQ03P5,14.8,14.8,1.0,2.006; H2O2-MNNG + hv,OH
+DMPO * .CH(OH)CH3in AQ ET,15.8,22.8,0.69,2.0052; WO3 + hv,OH
+DMPO * .OHin AQ07P0,14.9,14.9,1.0,chlortetracycline + UV,OH
+DMPO * .CH(OH)CH3in AQ07P2,15.8,22.8,0.69,Cr(VI)+NADPH+H2O2+EtOH,OH
+DMPO * .OHin AQ0,14.95,14.95,1.0,ultrasound,OH
+DMPO * .OHin AQ07P4,14.8,14.8,1.0,daunomycin + hv,OH
+DMPO * .OH#in CFCl3 AQ,14.9,14.9,1.0,"gamma-hv of H2O, annealed to 270 K",OH
+DMPO * .O2Hin AQ07P4,14.3,11.3,1.27,2.0053;H=1.3;PMA+PMN,O2H
+DMPO * .OHin AQ07P4,14.9,,,PMA stimulated PMN,OH
+DMPO * .OHin AQ0605,,,,Fe(2+) + H2O2,OH
+DMPO * .OHin AQ07P5,15.1,15.1,1.0,cumene hydroperoxide+mouse keratinocytes,OH
+DMPO * .O2Hin AQ07P8,,,,xanthine oxidase + lactoferrin,O2H
+DMPO * .O2Hin AQ,14.2,11.7,1.21,reperfused ischemic myocardium,O2H
+DMPO * .OHin AQ HBS,0.0,0.0,,"HXO/XO;T=25C,37C",OH
+DMPO * .CH(OH)CH3in DM,13.6,,,amiodarone + O2 + hv,OH
+DMPO * .CH(OH)CH3in AQ0,15.8,23.0,0.69,amiodarone + EtOH + UV,OH
+DMPO * .OHin AQ06P8,14.9,14.9,1.0,hydrazine+Cu(II) or Fe(III),OH
+DMPO * .CH2OHin AQ,16.2,23.0,0.7,Ru(NH3)6 + H2O2 + CH3OH,OH
+DMPO * .OHin AQ,14.8,14.8,1.0,Cr(II)+H2O2,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,Fe2+ + H2O2,OH
+DMPO * .OHin AQ07P0,14.9,14.9,1.0,chlorpromazine + UV,OH
+DMPO * .OHin AQ07C4,14.8,14.8,1.0,reperfused rat heart,OH
+DMPO * .OHin AQ,15.0,15.0,1.0,O17=4.66; gamma hv of H2O (51% O17),OH
+DMPO * .COHin BZ,14.03,17.87,0.79,CH3CHO + BP*,OH
+DMPO * .OHin AQ08P5,14.9,14.9,1.0,2.0051; DL-glyceraldehyde autox.,OH
+DMPO * .CH(OH)CH3in AQ MC 9:1,15.8,23.0,0.69,Pt blue/H2O2,OH
+DMPO * .CH(OH)CH3in AQ07P4,0.0,0.0,,adriamycin + X/XO + EtOH,OH
+DMPO * .CH(OH)CH3in AQ07P4,16.0,22.8,0.7,Xanthine/xanthine oxidase + EtOH,OH
+DMPO * .OHin AQ HBS ME,15.2,15.2,1.0,DMPO+DTPA+sonolysis,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,BCG-macrophages+endotoxin+DETAPAC;40min,OH
+DMPO * .CH(OH)CH3 1O2in AQ07P4,16.0,22.5,0.71,MC540 treated liposome+ETOH+hv,OH
+DMPO * .OHin AQ07P5,15.0,15.0,1.0,enzymatic reduction of quinoids,OH
+DMPO * .OHin AQ07P4,0.0,0.0,,cellular effects of DMPO,OH
+DMPO * .OHin AQ07T5,14.9,14.9,1.0,adriamycin-Fe(III) + H2O2,OH
+DMPO * .OHin AQ07P4,15.0,15.0,1.0,2.0062; NADPH-cytochrome c reductase,OH
+DMPO * .OHin AQ Blood,15.0,15.0,1.0,crystal violet + whole blood + hv,OH
+DMPO * .OHin AQ0,,,,ZnO dispersion + hv,OH
+DMPO * .O2Hin AQ07P4,14.7,11.7,1.26,H=1.2;human breast cell microsomes/doxo..,O2H
+DMPO * .COH(CH3)2in AQ,,,,@KF=1.1E8; AC + 2-PR + hv,OH
+DMPO * .OHin AQ07P4,,,,@KF=3.4E9; H2O2+hv,OH
+DMPO * .O2SO2C6H4NO2in AN,12.8,10.1,1.27,O2-. + 2-nitrobenzenesulfonyl chloride,.O2SO2C6H4NO2
+DMPO * .OHin AQ,15.0,15.0,1.0,Fe(II)-EDTA + H2O2 + AC,OH
+DMPO * .OHin AQ07P4,,,,"xanthine oxidase, iron and membranes",OH
+DMPO * .O2Hin AQ,,,,@KF=6.6E3,O2H
+DMPO * .CH(OH)CH3in AQ0,15.8,22.8,0.69,Phanerochaete chrys. cell extract + EtOH,OH
+DMPO * .CH2OHin AQ0,15.87,22.57,0.7,2.0053; SO4.- + CH3OH,OH
+DMPO * .OHin AQ07P0,14.9,14.9,1.0,humic acid + hv,OH
+DMPO * .OHin AQ10P0,,,,myricetin during autoxidation,OH
+DMPO * .OHin AQ,14.8,14.8,1.0,Cr(III)+H2O2 + NADH,OH
+DMPO * .OHin AQ07P5,15.0,15.0,1.0,2.006;tallysomycin+Cu(II),OH
+DMPO * .CH(OH)CH3#in AQ0,15.8,22.8,0.69,blue dye #1 + hv with EtOH,OH
+DMPO * .CH2OHin AQ07P0,16.0,22.7,0.7,Fe2+ + H2O2 + CH3OH,OH
+DMPO * .CH(OH)CH3in AQ,15.8,22.8,0.69,H2O2 + EtOH + UV,OH
+DMPO * .O2Hin AQ07P5,,,,chloroplasts + chloroplasts lipid vesicles,O2H
+DMPO * .OHin,14.8,14.8,1.0,computer simulation,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,H2O2 + UV or decomposition of DMPO-OOH,OH
+DMPO * .CH(OH)CH3in AQ,16.0,22.8,0.7,dihydroxyindole + EtOH + UV,OH
+DMPO * .O2Hin AQ07P4,14.2,11.2,1.27,H=1.2;Co2+ + NTA + H2O2,O2H
+DMPO * .O2Hin AQ07M8,,,,"pea chloroplasts, doixanthiadiaza-2,5-pental",O2H
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,anthracycline + submitochondrial particles,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,H2O2 + UV,OH
+DMPO * .OH Din AQ D,14.9,14.9,1.0,"D<.01mG=,224(6),.135(2),.229,.37, H2O2+UV",OH
+DMPO * .OHin AQ,14.8,14.8,1.0,H2O2 + UV,OH
+DMPO * .CH2(CH2OH)CH3in AQ,16.5,24.0,0.69,Fe(II)-EDTA + H2O2 + tBuOH,OH
+DMPO * .OHin AQ S,,,,neutrophiles + zymoson,OH
+DMPO * .CH(OH)CH3 C13-CH3in AQ07P0,16.0,23.0,0.7,Fe2+ + H2O2 + C2H5OH C13-CH3,OH
+DMPO * .O2Hin AQ07T4,,,,arsenazo III + microsomes,O2H
+DMPO * .C6 7OHCPZin AQ06P5,15.6,24.0,0.65,7OHCPZ + 330nm - air,OH
+DMPO * .CH2OH C13 1O2in AQ07P4,15.75,22.5,0.7,C13=8.5;MC540 treated liposome+CH3OH+hv,OH
+DMPO * .C6H4CO2Hin AQ0,15.95,23.54,0.68,2.0053; phthalic acid + SO4.-,O2H
+DMPO * .OHin AQ PR 1:2,14.5,12.65,1.15,Fenton system,OH
+DMPO * .OHin AQ07P5,14.9,14.9,1.0,2.005; NADH + PMS + DMPO + O2,OH
+DMPO * .O2Hin AQ07P4,14.25,11.3,1.26,IV;H=1.4;ischemic and ischemic rat hearts,O2H
+DMPO * .OHin AQ07P8,15.0,15.0,1.0,2.0055; H2O2 + drug semiquinone,OH
+DMPO * .OHin AQ07P4,15.0,15.0,1.0,microsomes + NADPH,OH
+DMPO * .OHin AQ08P0,15.0,15.0,1.0,proflavine + DNA + hv,OH
+DMPO * .OHin AQ07P8,14.9,14.9,1.0,P450 reductase + NADPH,OH
+DMPO * .O2Hin DM,12.7,10.3,1.23,"H=1.3, Ga-phthalocyanine + hv",O2H
+DMPO * .CH(OH)CH3in AQ ET 2:1,15.7,22.5,0.7,TSPC+tryptophan+hv,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,H2O2 + hv,OH
+DMPO * .O2Hin AQ07P4,14.3,11.7,1.22,"2.0061; H=1.25, adriamycin + NADH dehydrog",O2H
+DMPO * .OHin TO,13.75,12.1,1.14,Fenton system,OH
+DMPO * .OHin AQ03T0,14.9,14.9,1.0,Fenton system - not from ligninase,OH
+DMPO * .OHin AQ07T6,,,,"H2O2 + hv, HPLC detection method given",OH
+DMPO * .CH(OH)CH3in AQ07P0,15.8,23.0,0.69,photofrin II + ascorbate + hv,OH
+DMPO * .OHin AQ P,,,,Fenton system,OH
+DMPO * .O2Hin AQ07P4,0.0,0.0,,NADPH- cytoc P-450 reductase + lactoferrin,O2H
+DMPO * .OHin AQ07,14.7,14.7,1.0,"gamma radiation of water, t1/2 = 58 min",OH
+DMPO * .O2Hin AQ AC 1:1,14.3,11.7,1.22,"H=1.25, chloroplasts + hv",O2H
+DMPO * .OHin Eagle's,14.9,14.9,1.0,hydralazine in Eagle's medium,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,2.0050; cysteine autox.,OH
+DMPO * .O2Hin AQ08F,14.1,11.2,1.26,"H=1.3, chloroplasts + hv",O2H
+DMPO * .OHin AQ07P4,14.95,14.95,1.0,respiring mitochondria,OH
+DMPO * .O2Hin AQ07P0,14.1,11.3,1.25,"H=1.25, hv of mitomycin C",O2H
+DMPO * .O2Hin HP,12.9,6.8,1.9,Cds or phthalocyanine pigments + hv,O2H
+DMPO * .OHin AQ HBS,0.0,0.0,,stimulated neutrophils;T=37C,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,rat enterocytes + menadione,OH
+DMPO * .OHin AQ0804,14.9,14.9,1.0,2.0055; DOPA + 250nm,OH
+DMPO * .C6H4 p-H2NO2Sin AQ07D0,15.7,23.73,0.66,4-iodobenzenesulfonamide + UV,.C6H4 p-H2NO2S
+DMPO * .OH O17in AQ,14.92,14.92,1.0,O17=4.45;adriamycin + 490nm in 50% H2O (O17),OH
+DMPO * .OHin AC AQ?,14.75,14.75,1.0,2.0053; WO3 + hv,OH
+DMPO * .CH(OH)CH3in AQ,16.0,23.2,0.69,Fe(II)-EDTA + H2O2 + EtOH,OH
+DMPO * .OHin ET AQ 1:1,14.7,13.3,1.11,"H=.8, benoxeprofen + UV",OH
+DMPO * .OHin AQ07P8,0.0,0.0,,glyoxysomal supernatant + xanthine,OH
+DMPO * .OHin AQ,0.0,0.0,,partition coefficients,OH
+DMPO * .OHin AQ07P8,,,,Fe(II)-picolinate + H2O2,OH
+DMPO * .OHin AQ K,14.9,14.9,1.0,@VV;ischemia-reperfusion of neo-rabbit heart,OH
+DMPO * .OHin AQ Swim's,14.9,14.9,1.0,BLM + enterocytes,OH
+DMPO * .OHin AQ HBS,14.9,14.9,1.0,adriamycin/canine tracheal cells,OH
+DMPO * .OHin AQ07P0,,,,@KD2=17,OH
+DMPO * .CH(OH)CH3in ET,0.0,0.0,,quinone+GSH,OH
+DMPO * .OHin AQ,15.2,15.2,1.0,2.0058;pyridine model ligand-1+Fe(II)+O2,OH
+DMPO * .OHin BZ,13.7,12.1,1.13,Fenton system,OH
+DMPO * .OHin AQ07P5,15.0,15.0,1.0,2.006;tallysomycin+O2 before Cu(II),OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,2.0050; adriamycin + RBC,OH
+DMPO * .OHin AQ,14.92,14.98,1.0,CPZ + hv,OH
+DMPO * .C(OH)(CH3)2in AQ PR i,15.9,23.5,0.68,2.0056; WO3 + hv,OH
+DMPO * .OHin AQ06C7,14.92,14.92,1.0,Fe(II)-ADP-H2O2,OH
+DMPO * .OHin AQ07P5,14.9,14.9,1.0,2.005; pyocyanine + NADH + DMPO + O2,OH
+DMPO * .O2Hin AQ DMF 2:1,14.1,11.2,1.26,H=1.3;TSPC+hv,O2H
+DMPO * .OHin AQ07P5,14.9,14.9,1.0,primaquine+DMSO,OH
+DMPO * .OHin AQ0,,,,neutrophiles + latex IgG,OH
+DMPO * .OHin TO 18C6,13.0,13.0,1.0,ozonate (SiO2) decomposition at -50 C,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,2.0053;PMA+lymphocytes,OH
+DMPO * .OHin AQ ME,14.75,14.75,1.0,2.0052; WO3 + hv,OH
+DMPO * .O2Hin AQ07P4,14.3,11.7,1.22,"2.0061; H=1.25, primaquine + NADPH",O2H
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,2.0055; H2O2 + UV,OH
+DMPO * .OHin AQ07P2,14.9,14.9,1.0,Cr(VI)+NADPH+H2O2,OH
+DMPO * .OHin AQ08P3,14.9,14.9,1.0,VT; liver + methyl clofenapate,OH
+DMPO * .OHin AQ07P4,14.8,14.8,1.0,Fenton,OH
+DMPO * .OH#in CFCl3 AQ,13.0,13.0,1.0,"gamma-hv of H2O, annealed to 298K",OH
+DMPO * .OH#in AQ07P4,14.9,14.9,1.0,menadione+NADPH-cyto c reductase+NADPH...,OH
+DMPO * .C6H4 p-NO2in BZ,13.7,19.33,0.71,C6H4I(pNO2)+hv,.C6H4 p-NO2
+DMPO * .COHin ME,14.0,17.7,0.79,"ozone + dimethylacetylene, -30 C",OH
+DMPO * .OHin AQO7P2,14.9,14.9,1.0,Cr(VI)+NADPH+H2O2,OH
+DMPO * .OHin AQ0,15.0,15.0,1.0,hematin + cumene hydroperoxide,OH
+DMPO * .OHin,,,,@KD=8.4E-4;pH=7,OH
+DMPO * .CH(OH)CH3in AQ06P4,16.02,22.9,0.7,ethyl hydroperoxide + chloroperoxidase,OH
+DMPO * .OHin AQ0700,14.9,14.9,1.0,2.0055; DOPA or catechol + UV,OH
+DMPO * .O2Hin AQ07M0,,,,pea chloroplasts + paraquat,O2H
+DMPO * .OHin AQ0,14.9,14.9,1.0,ultrasound using clinical equipment,OH
+DMPO * .O2Hin AQ DM 19:1,14.2,11.6,1.22,"H=1.2, KO2 in DMSO",O2H
+DMPO * .C(OH)(CH3)2in AQ11P0,15.8,23.9,0.66,Fe(III)TPPS + 2PrOH + hv,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,gamma hv of water,OH
+DMPO * .O2Hin AQ0,,,,synthetic melanin + hv,O2H
+DMPO * .O2Hin AQ07P4,14.2,11.3,1.26,H=1.3; xanthine + xanthine oxidase,O2H
+DMPO * .C(OH)2CH(OH)CH2OHin AQ08P5,15.8,22.8,0.69,2.0055; DL-glyceraldehyde autox.,OH
+DMPO * .O2Hin AQ07P4,0.0,0.0,,primaquine + NADPH,O2H
+DMPO * .CH(OH)Rin AQ07P4,15.8,22.8,0.69,2.0055; glyceraldehyde autox.,OH
+DMPO * .O2Hin ET,13.1,10.3,1.27,"H=1.4, benoxaprofen + UV",O2H
+DMPO * .O2Hin AQ07P4,14.3,11.3,1.27,2.0055;H=1.25;PMA stimulated PMN,O2H
+DMPO * .O2Hin BZ,12.9,6.9,1.87,CdS or phthalocyanine pigments + hv,O2H
+DMPO * .OHin AQ,14.8,14.8,1.0,Fe(II)/Fe(III) + H2O2,OH
+DMPO * .O2Hin AQ07P4,0.0,0.0,,Streptonigrin (or paraquat) + N.gonorrhoeae,O2H
+DMPO * .CH(OH)CH3in BZ,15.03,22.53,0.67,EtOH + BP*,OH
+DMPO * .OH O17in AQ07P4,15.01,15.01,1.0,"O(17)=4.66, xanthine oxidase",OH
+DMPO * .OHin AC AQ 2:1,14.55,12.55,1.16,Fenton system,OH
+DMPO * .OHin AQ07T5,15.0,15.0,1.0,2.0056; Fe(III)-bleomycin + P450 reductase,OH
+DMPO * .O2Hin AQ07P8,14.3,11.7,1.22,H=1.3; P450 reductase + NADPH,O2H
+DMPO * .OHin AQ07T8,,,,"H2O2+UV, HPLC separation of products",OH
+DMPO * .CH2OHin AQ,15.92,22.56,0.71,precursor + hv or heat,OH
+DMPO * .O2Hin AQ07T5,,,,microsomes + aromatic nitrocompounds,O2H
+DMPO * .CH(OH)CH3in AQ,16.1,23.3,0.69,Fe(H2O)6 + H2O2 + EtOH,OH
+DMPO * .OH#in AQ07P0,14.9,14.9,1.0,"daunomycin or adriamycin + 490nm, not .OH",OH
+DMPO * .CH(OH)(C6H5)in AQ03Z0,16.0,22.7,0.7,"C13 = 8.3, DMHB + ligninase",OH
+DMPO * .OHin AQ07P8 LPC,14.3,14.3,1.0,LPC or serum autox.,OH
+DMPO * .OHin AQ CE,14.9,14.9,1.0,radiolytic generation,OH
+DMPO * .O2Hin,14.3,11.7,1.22,H=1.25; computer simulation,O2H
+DMPO * .OHin AQ,14.7,14.7,1.0,dispersed egg lecithin + air; T=37C,OH
+DMPO * .OHin AQ0,14.5,14.5,1.0,"2.0052; MMA+Cu(II)+starch,amylase,nylon 3",OH
+DMPO * .O2Hin AQ,14.3,11.7,1.22,H=1.25; simulation,O2H
+DMPO * .OHin AQ07P4,15.0,15.0,1.0,anthrapyrarole + NADH + hv,OH
+DMPO * .O2Hin BZ,12.8,6.9,1.86,"H=1.7, benoxaprofen + UV",O2H
+DMPO * .CH(OH)CH3 C13-allin AQ07P0,16.0,23.0,0.7,Fe2+ + H2O2 + C2H5OH C13-all C,OH
+DMPO * .OHin AQ07P4,14.7,14.7,1.0,Fenton reaction,OH
+DMPO * .CH(OH)CH3in AQ0,15.8,22.8,0.69,ultrasound in water with EtOH (or 83MA01),OH
+DMPO * .O2Hin AQ HBS,14.3,1.3,11.0,H=11.25;zymosan+neutrophils+DTPA+DMSO,O2H
+DMPO * .OHin AQ07P0,0.0,0.0,,BLM + Fe(II) + GSH,OH
+DMPO * .CH(OH)CH3in AQ ET 7:3,0.0,0.0,,freshly ground silica,OH
+DMPO * .OHin AQ07P8,15.0,15.0,1.0,2.0056;FeSO4+PBS,OH
+DMPO * .OHin AQ DMF 2:1,15.0,15.0,1.0,Fenton,OH
+DMPO * .OHin CE,14.4,14.4,1.0,H2O2 + UV after DMPO is in cells,OH
+DMPO * .OHin AQ,15.0,15.0,1.0,Ru(NH3)6 + H2O2,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,endothelial cells + nitrazepam,OH
+DMPO * .O2Hin AQ07P8,14.3,11.7,1.22,"2.0061; H=1.25, xanthine+xanthine oxidase",O2H
+DMPO * .OHin AQ07P8,14.9,14.9,1.0,Xanthine/Xanthine oxidase/Fe2+,OH
+DMPO * .O2Hin AC,13.1,9.1,1.44,CdS or phthalocyanine pigments + hv,O2H
+DMPO * .OHin AQ07P4,15.0,15.0,1.0,anthrapyrarole + ascorbate + hv,OH
+DMPO * .O2Hin AQ07P4,14.25,11.3,1.26,"H=1.4, respiring mitochrondria",O2H
+DMPO * .O2Hin AQ07P4,14.2,11.6,1.22,"H=1.2, xanthine + xanthine oxidase",O2H
+DMPO * .CH(OH)CH3in AQ ET,15.9,23.0,0.69,ML-OOH + Fe2+,OH
+DMPO * .OHin AQ07P4,14.97,14.97,1.0,X/XO + DSF in chelex-treated buffer,OH
+DMPO * .OHin AQ07P0,14.92,14.92,1.0,adriamycin or daunomycin + 485-490nm,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,"2.0050; 1,4-napthoquinone-2-sulfonate ox.",OH
+DMPO * .OHin AQ06P0 -8,,,,asbestos + H2O2,OH
+DMPO * .OHin AM,14.25,12.0,1.19,Fenton system,OH
+DMPO * .OHin AQ07P8,,,,Fenton system,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,endothelial cells - ischemia,OH
+DMPO * .OH#in AQ0,14.9,14.9,1.0,2.0061; blue dye #1 + hv,OH
+DMPO * .O2Hin AQ07T4,14.3,11.7,1.22,"H=1.25, microsomes + mitomycin c",O2H
+DMPO * .O2Hin AQ07P4,,,,"dihydroxyfumarate, HRP +/- H2O2",O2H
+DMPO * .OHin AQ07P4,15.0,15.0,1.0,daunorubicin+NADPH+O2+hv,OH
+DMPO * .CH(OH)CH3in AQ07P8,16.0,23.0,0.7,2.0054;EtOH+FeSO4+PBS,OH
+DMPO * .OHin AQ0P,14.9,14.9,1.0,H2O2 + hv,OH
+DMPO * .CO2Hin AQ07P2,,,,Cr(VI)+NADPH+HCOOH+glutathione reductase,O2H
+DMPO * .OHin AQ0,15.01,15.01,1.0,Fe(II)-citrate + H2O2,OH
+DMPO * .OHin AQ04A6,14.8,14.8,1.0,indole-3-acetic acid + HRP + H2O2,OH
+DMPO * .C(OH)(CH3)2in BZ,14.58,23.91,0.61,C3H7OH + BP*,OH
+DMPO * .OHin AQ07P4,0.0,0.0,,radiolysis+N2O,OH
+DMPO * .CH2OHin BZ,14.71,21.66,0.68,2.0057; precursor + hv or heat,OH
+DMPO * .OHin AQ,14.9,14.9,1.0,2.0055;DOPA or catechol +UV,OH
+DMPO * .O2Hin AQ07K4,14.3,11.7,1.22,"2.0061; H=1.25,NADPH oxidase + NADPH or NADH",O2H
+DMPO * .O2Hin AQ04A6,14.4,11.3,1.27,"H=1.3, indole-3-acetic acide + HRP + H2O2",O2H
+DMPO * .OHin AQ07P5,0.0,0.0,,quinone+GSH,OH
+DMPO * .O2Hin AQ07T4,0.0,0.0,,microsomes + uroporphyrin + NADPH,O2H
+DMPO * .CH2OHin AQ07P4,15.45,22.93,0.67,2.0054; HPD + Fe2+ + EDTA + hv,OH
+DMPO * .CH2OHin AQ,15.9,23.0,0.69,Fe(H2O)6 + H2O2 + CH3OH,OH
+DMPO * .OHin AQ07P0,,,,@KF=4.3E9; H2O pulse radiolysis,OH
+DMPO * .CH2OHin BZ,14.66,20.67,0.71,CH3OH + BP*,OH
+DMPO * .CH(OH)CH3in AQ0,15.8,22.9,0.69,2.0067; Fenton system,OH
+DMPO * .CH(OH)CH3in AQ ET 1:1,15.0,21.7,0.69,benoxaprofen + UV,OH
+DMPO * .O2Hin AQ07P8,,,,xanthine + xanthine oxidase with DETAPAC,O2H
+DMPO * .OHin AQ07P8,14.87,14.87,1.0,DTPA+gamma-aminolevulinic acid+oxyHb,OH
+DMPO * .OHin AQ K,14.8,14.8,1.0,@VV;30m ischaemia-reperfusion rat heart,OH
+DMPO * .OHin AQ,,,,pyocyanine + cell suspension,OH
+DMPO * .C(OH)RR'in AQ06P0 6-9,,,,glyceraldehyde autox.,OH
+DMPO * .O2Hin AQ0,14.3,11.7,1.22,"2.0061; H=1.25, chloroplasts + hv",O2H
+DMPO * .O2Hin AQ07P5,14.3,11.7,1.22,"2.0061; H=1.25,NADPH/pyocanine",O2H
+DMPO * .OHin AQ07P4,,,,@KF=2.1E9; Fenton,OH
+DMPO * .OHin AQ,15.01,15.01,1.0,2.0060; precursor + hv or heat,OH
+DMPO * .O2Hin AQ0,14.1,11.3,1.25,"2.0061; H=1.25, CdS dispersion + hv",O2H
+DMPO * .OHin AQ0701,14.9,14.9,1.0,2.0055; photodecomposition of bleomycin,OH
+DMPO * .CH(OH)CH3in AQ07P0,16.0,23.0,0.7,Fe2+ + H2O2 + C2H5OH,OH
+DMPO * .OHin,,,,@KD=4.7E-4;pH=6,OH
+DMPO * .OHin AQ06P5,14.8,14.8,1.0,DCPZ + 330nm - air,OH
+DMPO * .OHin AQ07P8,14.8,14.8,1.0,xanthine + xanthine oxidase,OH
+DMPO * .OHin AQ,,,,H2O2+UV,OH
+DMPO * .OH#in AQ0,14.9,14.9,1.0,air oxidation of DMPO,OH
+DMPO * .O2Hin AQ07P4,14.3,11.7,1.22,"H=1.25, microsomes + NADPH",O2H
+DMPO * .OHin AQ07 -11,14.9,14.9,1.0,"2.0057; H2O2 + or SO4.-, t1/2  =< 5s",OH
+DMPO * .O2Hin AN,13.26,10.61,1.25,"2.0061; H=1.25, electrochemical generation",O2H
+DMPO * .O2Hin ET,13.1,10.3,1.27,"H=1.4;1,8-DHAQ + 428nm",O2H
+DMPO * .O2Hin AQ07P4,14.1,11.3,1.25,H=1.2; xanthine oxidase + hypoxanthine,O2H
+DMPO * .CH(OH)CH3in AQ07H4,,,,ubisemiquinone reactions,OH
+DMPO * .OH 1O2in AQ07P4,15.0,15.0,1.0,MC540 treated liposome+hv,OH
+DMPO * .OHin AQ,14.8,14.8,1.0,HXO/XO,OH
+DMPO * .OHin AQ07P4,15.0,15.0,1.0,2.0062;liver MCS+EDTA+KCl+NADPH,OH
+DMPO * .CHR2 6-OH dCYTD C5in AQ0607,15.8,21.0,0.75,H=2.7; deoxycytidine + H2O2 + UV,OH
+DMPO * .OHin AQ07P4,14.9,14.9,1.0,2.0051; primaquine + RBC or NADPH,OH
+DMPO * .OHin AQ07P5,14.9,14.9,1.0,2.0034; PMSH + DMPO + O2,OH
+DMPO * .OHin AQ07P2,14.9,14.9,1.0,Cr(VI)+NADPH,OH
